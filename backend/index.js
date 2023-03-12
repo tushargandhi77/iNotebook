@@ -14,4 +14,4 @@ app.use('/api/auth', require('./routes/auth'))
 app.use('/api/notes', require('./routes/notes'))
 
 
-app.listen(port,'127.0.0.1');
+app.listen(port,'0.0.0.0');
