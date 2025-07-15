@@ -61,7 +61,17 @@ Before running the application, ensure you have the following installed:
 3. Your notes will be securely stored in the cloud and accessible anytime.
 
 ## Screenshots
-*Add your screenshots here*
+<img width="1895" height="915" alt="Image" src="https://github.com/user-attachments/assets/992320bc-cc5f-4dd2-9d0f-415d798f77ff" />
+
+<img width="1896" height="905" alt="Image" src="https://github.com/user-attachments/assets/4bca9bc5-ec3f-42d5-8344-f5b2a2e5772d" />
+
+<img width="1892" height="910" alt="Image" src="https://github.com/user-attachments/assets/c1c486b4-e20b-4318-a5fa-6df6aaf047ec" />
+
+<img width="1917" height="903" alt="Image" src="https://github.com/user-attachments/assets/9c352ded-7b68-470b-a70b-46ac91605622" />
+
+<img width="1891" height="908" alt="Image" src="https://github.com/user-attachments/assets/0465eda9-29ee-4628-b925-f51fc87da1ad" />
+
+<img width="1895" height="911" alt="Image" src="https://github.com/user-attachments/assets/864f9dbc-8481-41e4-843a-ad742a498680" />
 
 ## Contributing
 Contributions are welcome! Please follow these steps:
