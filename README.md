@@ -1,5 +1,10 @@
 # iNotebook - Secure Cloud-Based Note Storage
 
+![Data Science](https://img.shields.io/badge/Web%20Development-Project-blue)
+![Python](https://img.shields.io/badge/javascript-Node-green)
+![Machine Learning](https://img.shields.io/badge/MERN%20Stack-JS-orange)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
 iNotebook is a MERN (MongoDB, Express.js, React, Node.js) application designed to help you store your notes securely in the cloud, ensuring privacy and accessibility.
 
 ## Features
